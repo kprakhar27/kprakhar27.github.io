@@ -1,6 +1,18 @@
-## Objective
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kumar Prakhar</h1>
+<h3 align="center">Computer Science Engineer | Web Designer | Data Analysis Enthusiast</h3>
 
-Sophomore at VIT Bhopal University, pursuing B. Tech in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning, aiming to leverage my abilities to complete different projects in the field of Data Science. Ready for on job training to improve my skills and gain valuable work experience. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
+<p align="center">
+  <em>
+    This is ME, Kumar Prakhar, a <b>second year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
+    A budding <b>Data Scientist</b> and a <b>Web Designer</b>,who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>.
+  </em> 
+  <br>
+  <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
+</p>
 
 <hr>
 
