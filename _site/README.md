@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Objective
 
-You can use the [editor on GitHub](https://github.com/kprakhar27/kprakhar27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sophomore at VIT Bhopal University, pursuing B. Tech in Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning, aiming to leverage my abilities to complete different projects in the field of Data Science. Ready for on job training to improve my skills and gain valuable work experience. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+### Hexaberry Data Science Community, Bangalore - _Core Team_
+**July 2020 - PRESENT**
+Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
+### B'Fab Herbals, Mumbai - _Web Developer_
+**November 2020 - PRESENT**
+Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
+### MyCaptain, Bangalore - _Youth Rep_
+**July 2020 - August 2020**
+Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
 
-### Markdown
+## Education
+### VIT University, Bhopal - _BTech CSE spl. AI & ML_
+**July 2019 - In Progress**
+Specializing in Artificial Intelligence and Machine Learning. Studying various topics like Algorithms, DBMS, Linear Algebra and more. Completed a project on Stock Market Forecasting using Time Series Analysis. Member of the organizing committee for AI Division events.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kprakhar27/kprakhar27.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
+### MegaBUCKS - _Stock Market Forecasting using Time Series Analysis_
+**Project Leader**
+Designing an Android app using Flutter framework to retrieve and display data from a flask API which predicts future stock prices of NSE listed companies using ARIMA model.
+### Smart Beekeeping - _Smart monitoring system for beekeeping farms in India using IoT and Data Science_
+**Team Member**
+Helping design a prototype Android app using the Flutter framework to showcase the concept to Indian beekeepers.
+### Heart Health - _Heart Failiure Prediction App_
+**Project Leader**
+Ongoing project to create a web app which will take certain parameters as input from user and predict the probability of heart failiure for the person.
