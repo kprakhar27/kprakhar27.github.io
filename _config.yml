@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 title: Kumar Prakhar
+email: kumarprkhr@gmail.com
 description: kumarprkhr@gmail.com <br> +91 757 104 4440 <br> Gomti Nagar, Lucknow - 226010 <br> India
 logo: /assets/img/logo.jpg
 show_downloads: false
+url: https://kumarprakhar.com
+twitter_username: KumarPrakhar27
+github_username: kprakhar27
+
+plugins:
+  - jekyll-seo-tag

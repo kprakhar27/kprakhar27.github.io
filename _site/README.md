@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     This is ME, Kumar Prakhar, a <b>second year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
-    A budding <b>Data Scientist</b> and a <b>Web Designer</b>,who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>.
+    A budding <b>Data Scientist</b> and a <b>Web Designer</b>, who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>.
   </em> 
   <br>
   <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
