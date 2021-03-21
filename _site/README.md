@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     This is ME, Kumar Prakhar, a <b>second year</b> undergraduate from <a href="https://www.vitbhopal.ac.in/"> <b>Vellore Institute of Technology</b>, Bhopal</a>. <br>
-    A budding <b>Data Scientist</b> and a <b>Web Designer</b>, who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>.
+    I am a budding <b>Data Scientist</b> and a <b>Web Designer</b>, who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>.
   </em> 
   <br>
   <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
@@ -19,13 +19,23 @@
 ## Experience
 ### Hexaberry Data Science Community, Bangalore - _Core Team_
 **July 2020 - PRESENT**
-Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
-### B'Fab Herbals, Mumbai - _Web Developer_
+Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. HDSC was formed as to bring knowledge about AI and ML to the masses and make learning AI and ML more acessibile for the students. As part of the community and the core team, I am also involved in various projects being undertaken by the parent company Hexaberry LLP.
+### B'Fab Herbals, Mumbai - _Technical Consultant_
 **November 2020 - PRESENT**
-Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
+Helping set up an E-commerce market place for a herbal cosmetics startup to expand their reach and grow their engagement with their customers.
 ### MyCaptain, Bangalore - _Youth Rep_
 **July 2020 - August 2020**
-Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. 
+Interned with MyCaptain as Youth Representative, gaining experience in Business Development, Marketing and Sales along with a focus on Community building for creating an impact.
+
+<hr>
+
+## Volunteer Work
+### Website Development Head - _[AI Club, VIT Bhopal](https://aiclubvitbhopal.github.io)_
+**January 2021 - PRESENT**
+Head of the Website Development Team at AI Club, VIT Bhopal.
+### Technical Head - _[AI Conclave 2021](https://aivit.tech)_
+**January 2021 - Feburary 2021**
+Created the website for the International [AI Conclave 2021](https://aivit.tech) conducted by the AI Division of VIT Bhopal. It was a 2-day international event, held on 26th and 27th February 2021. It aimed to impart knowledge and raise awareness about Artificial Intelligence and related technologies in the mind of the enthusiastic youth of India.
 
 <hr>
 
