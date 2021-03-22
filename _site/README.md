@@ -19,7 +19,7 @@
 ## Experience
 ### Hexaberry Data Science Community, Bangalore - _Core Team_
 **July 2020 - PRESENT**
-Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. HDSC was formed as to bring knowledge about AI and ML to the masses and make learning AI and ML more acessibile for the students. As part of the community and the core team, I am also involved in various projects being undertaken by the parent company Hexaberry LLP.
+Member of the core team of the community, helping it expand its membership and grow its popularity among students who want to learn more about data science. HDSC was formed as to bring knowledge about AI and ML to the masses and make learning AI and ML more accessible for the students. As part of the community and the core team, I am also involved in various projects being undertaken by the parent company Hexaberry LLP.
 ### B'Fab Herbals, Mumbai - _Technical Consultant_
 **November 2020 - PRESENT**
 Helping set up an E-commerce market place for a herbal cosmetics startup to expand their reach and grow their engagement with their customers.
@@ -74,9 +74,9 @@ Designing an Android app using Flutter framework to retrieve and display data fr
 ### Smart Beekeeping - _Smart monitoring system for beekeeping farms in India using IoT and Data Science_
 **Team Member**
 Helping design a prototype Android app using the Flutter framework to showcase the concept to Indian beekeepers.
-### Heart Health - _Heart Failiure Prediction App_
+### Heart Health - _Heart Failure Prediction App_
 **Project Leader**
-Ongoing project to create a web app which will take certain parameters as input from user and predict the probability of heart failiure for the person.
+Ongoing project to create a web app which will take certain parameters as input from user and predict the probability of heart failure for the person.
 
 <hr>
 
