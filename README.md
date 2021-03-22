@@ -34,7 +34,7 @@ Interned with MyCaptain as Youth Representative, gaining experience in Business 
 **January 2021 - PRESENT**
 Head of the Website Development Team at AI Club, VIT Bhopal.
 ### Technical Head - _[AI Conclave 2021](https://aivit.tech)_
-**January 2021 - Feburary 2021**
+**January 2021 - February 2021**
 Created the website for the International [AI Conclave 2021](https://aivit.tech) conducted by the AI Division of VIT Bhopal. It was a 2-day international event, held on 26th and 27th February 2021. It aimed to impart knowledge and raise awareness about Artificial Intelligence and related technologies in the mind of the enthusiastic youth of India.
 
 <hr>
