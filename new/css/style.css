@@ -1,8 +1,8 @@
 /*
-Template Name: Tunis - Personal Portfolio
+Template Name: Tunis - Personal projects
 Author: celtano
 Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
+Description: Tunis - Personal projects
 Version: 1.0
 */
 /*------------------------------------------------------------------
@@ -22,7 +22,7 @@ Version: 1.0
 			- Box Stats
 			- Resume
 			- Skills
-		+ Portfolio
+		+ projects
 		    - Grid
 		    + Slideshow
                 - Embedded Videos
@@ -57,7 +57,9 @@ body {
     width: 100%;
     background-color: #111;
 }
-
+body::-webkit-scrollbar{
+    display: none;
+}
 .poppins-font {
     font-family: 'Poppins', sans-serif;
 }
@@ -159,15 +161,15 @@ body.light.about .c100:after {
     background-color: #fff;
 }
 
-body.light.portfolio .slideshow figure {
+body.light.projects .slideshow figure {
     background-color: #fff;
 }
 
-body.light.portfolio .slideshow ul > li:after {
+body.light.projects .slideshow ul > li:after {
     background: rgba(255,255,255,0.77);
 }
 
-body.light.portfolio .slideshow {
+body.light.projects .slideshow {
     background: rgba(0,0,0,0.7);
 }
 
@@ -251,35 +253,35 @@ body.light hr.separator {
         background: #ddd;
     }
 
-    body.light.portfolio .slideshow nav {
+    body.light.projects .slideshow nav {
         background: #eee;
         border-bottom: 1px solid #ddd;
     }
 
-    body.light.portfolio .slideshow nav span img {
+    body.light.projects .slideshow nav span img {
         display: none;
     }
 
-    body.light.portfolio .slideshow nav span.nav-next {
+    body.light.projects .slideshow nav span.nav-next {
         background-image: url("../img/projects/navigation/right-arrow.png");
         background-size: cover;
     }
 
-    body.light.portfolio .slideshow nav span.nav-prev {
+    body.light.projects .slideshow nav span.nav-prev {
         background-image: url("../img/projects/navigation/left-arrow.png");
         background-size: cover;
     }
 
-    body.light.portfolio .slideshow nav span.nav-close {
+    body.light.projects .slideshow nav span.nav-close {
         background-image: url("../img/projects/navigation/close-button.png");
         background-size: cover;
     }
 
-    body.light.portfolio .slideshow nav span.nav-next, body.light.portfolio .slideshow nav span.nav-prev {
+    body.light.projects .slideshow nav span.nav-next, body.light.projects .slideshow nav span.nav-prev {
         top: 51px;
     }
 
-    body.light.portfolio .slideshow {
+    body.light.projects .slideshow {
         background: #fff;
     }
 }
@@ -294,7 +296,7 @@ body.light hr.separator {
         border: 0;
     }
 
-    body.light.portfolio .slideshow nav span.nav-next, body.light.portfolio .slideshow nav span.nav-prev {
+    body.light.projects .slideshow nav span.nav-next, body.light.projects .slideshow nav span.nav-prev {
         top: 31px;
     }
 }
@@ -730,46 +732,46 @@ body.light hr.separator {
     background-color: #111;
 }
 
-/*** Portfolio ***/
-.portfolio .main-content {
+/*** projects ***/
+.projects .main-content {
     padding-bottom: 60px;
     margin-top: -15px;
 }
 
 /* Grid */
-.portfolio .grid-gallery ul {
+.projects .grid-gallery ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-.portfolio .grid-gallery figure {
+.projects .grid-gallery figure {
     margin: 0;
 }
 
-.portfolio .grid-gallery figure img {
+.projects .grid-gallery figure img {
     display: block;
     width: 100%;
     border-radius: 5px;
     transition: .3s;
 }
 
-.portfolio .grid-wrap {
+.projects .grid-wrap {
     margin: 0 auto;
 }
 
-.portfolio .grid {
+.projects .grid {
     margin: 0 auto;
 }
 
-.portfolio .grid li {
+.projects .grid li {
     width: 33.333333%;
     float: left;
     cursor: pointer;
     padding: 15px;
 }
 
-.portfolio .grid figure {
+.projects .grid figure {
     -webkit-transition: 0.3s;
     transition: 0.3s;
     border-radius: 5px;
@@ -778,16 +780,16 @@ body.light hr.separator {
     overflow: hidden;
 }
 
-.portfolio .grid figure img {
+.projects .grid figure img {
     display: block;
     position: relative;
 }
 
-.portfolio .grid li a {
+.projects .grid li a {
     overflow: hidden;
 }
 
-.portfolio .grid li figure div {
+.projects .grid li figure div {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -803,7 +805,7 @@ body.light hr.separator {
     justify-content: center;
 }
 
-.portfolio .grid li figure div span {
+.projects .grid li figure div span {
     margin: 0;
     text-transform: uppercase;
     color: #fff;
@@ -811,7 +813,7 @@ body.light hr.separator {
 }
 
 /* Slideshow */
-.portfolio .slideshow {
+.projects .slideshow {
     position: fixed;
     background: rgba(0,0,0,0.85);
     width: 100%;
@@ -829,14 +831,14 @@ body.light hr.separator {
     text-align: left;
 }
 
-.portfolio .slideshow-open .slideshow {
+.projects .slideshow-open .slideshow {
     opacity: 1;
     visibility: visible;
     -webkit-transition: opacity 0.5s;
     transition: opacity 0.5s;
 }
 
-.portfolio .slideshow ul {
+.projects .slideshow ul {
     width: 100%;
     height: 100%;
     -webkit-transform-style: preserve-3d;
@@ -847,17 +849,17 @@ body.light hr.separator {
     transition: transform 0.5s;
 }
 
-.portfolio .slideshow ul.animatable > li {
+.projects .slideshow ul.animatable > li {
     -webkit-transition: -webkit-transform 0.5s;
     transition: transform 0.5s;
 }
 
-.portfolio .slideshow-open .slideshow ul {
+.projects .slideshow-open .slideshow ul {
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
 }
 
-.portfolio .slideshow ul > li {
+.projects .slideshow ul > li {
     width: 660px;
     position: absolute;
     top: 50%;
@@ -866,11 +868,11 @@ body.light hr.separator {
     visibility: hidden;
 }
 
-.portfolio .slideshow ul > li.show {
+.projects .slideshow ul > li.show {
     visibility: visible;
 }
 
-.portfolio .slideshow ul > li:after {
+.projects .slideshow ul > li:after {
     content: '';
     position: absolute;
     width: 100%;
@@ -884,14 +886,14 @@ body.light hr.separator {
     border-radius: 10px;
 }
 
-.portfolio .slideshow ul > li.current:after {
+.projects .slideshow ul > li.current:after {
     visibility: hidden;
     opacity: 0;
     -webkit-transition: opacity 0.3s, visibility 0s 0.3s;
     transition: opacity 0.3s, visibility 0s 0.3s;
 }
 
-.portfolio .slideshow figure {
+.projects .slideshow figure {
     width: 100%;
     height: 100%;
     background: #252525;
@@ -900,15 +902,15 @@ body.light hr.separator {
     border-radius: 10px;
 }
 
-.portfolio .slideshow a {
+.projects .slideshow a {
     text-decoration: underline;
 }
 
-.portfolio .slideshow figcaption {
+.projects .slideshow figcaption {
     margin-bottom: 15px;
 }
 
-.portfolio .slideshow figcaption h3 {
+.projects .slideshow figcaption h3 {
     text-transform: uppercase;
     padding: 10px 0 20px;
     font-weight: 700;
@@ -917,14 +919,14 @@ body.light hr.separator {
 }
 
 /* Embedded Videos */
-.portfolio .slideshow .videocontainer, .portfolio .slideshow .responsive-video {
+.projects .slideshow .videocontainer, .projects .slideshow .responsive-video {
     max-width: 100%;
     border-radius: 4px;
     display: block;
     object-fit: cover;
 }
 
-.portfolio .slideshow .videocontainer {
+.projects .slideshow .videocontainer {
     position: relative;
     padding-bottom: 56.20%;
     padding-top: 0;
@@ -937,7 +939,7 @@ body.light hr.separator {
     border-radius: 4px;
 }
 
-.portfolio .slideshow .videocontainer iframe, .portfolio .slideshow .videocontainer object, .portfolio .slideshow .videocontainer embed {
+.projects .slideshow .videocontainer iframe, .projects .slideshow .videocontainer object, .projects .slideshow .videocontainer embed {
     position: absolute;
     top: 0;
     left: 0;
@@ -947,14 +949,14 @@ body.light hr.separator {
 }
 
 /* Carousel */
-.portfolio .slideshow .carousel-indicators {
+.projects .slideshow .carousel-indicators {
     bottom: 0;
     background: rgba(0,0,0,.4);
     padding: 10px 0;
     margin: 0;
 }
 
-.portfolio .slideshow .carousel-indicators li {
+.projects .slideshow .carousel-indicators li {
     width: 10px;
     height: 10px;
     border-radius: 50%;
@@ -964,7 +966,7 @@ body.light hr.separator {
 }
 
 /* Navigation */
-.portfolio .slideshow nav span {
+.projects .slideshow nav span {
     position: fixed;
     z-index: 1000;
     text-align: center;
@@ -973,7 +975,7 @@ body.light hr.separator {
     color: #fff;
 }
 
-.portfolio .slideshow nav span.nav-prev, .portfolio .slideshow nav span.nav-next {
+.projects .slideshow nav span.nav-prev, .projects .slideshow nav span.nav-next {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -981,15 +983,15 @@ body.light hr.separator {
     line-height: 58px;
 }
 
-.portfolio .slideshow nav span.nav-prev {
+.projects .slideshow nav span.nav-prev {
     left: 0;
 }
 
-.portfolio .slideshow nav span.nav-next {
+.projects .slideshow nav span.nav-next {
     right: 0;
 }
 
-.portfolio .slideshow nav span.nav-close {
+.projects .slideshow nav span.nav-close {
     top: 30px;
     right: 30px;
     padding: 0;
@@ -1218,7 +1220,7 @@ body.light hr.separator {
 
 /* [ RESPONSIVE DESIGN STYLES ] */
 @media (min-width: 1351px) {
-    .portfolio .container-portfolio .grid {
+    .projects .container-projects .grid {
         text-align: left;
     }
 }
@@ -1228,7 +1230,7 @@ body.light hr.separator {
         max-width: calc(100% - 195px);
     }
 
-    .portfolio .container-portfolio {
+    .projects .container-projects {
         max-width: calc(100% - 195px);
     }
 }
@@ -1432,23 +1434,23 @@ body.light hr.separator {
         font-weight: 400;
     }
 
-    .portfolio .grid li {
+    .projects .grid li {
         width: 50%;
     }
 
-    .portfolio .grid li figure div {
+    .projects .grid li figure div {
         display: none !important;
     }
 
-    .portfolio .slideshow {
+    .projects .slideshow {
         background: #252525;
     }
 
-    .portfolio .slideshow nav span {
+    .projects .slideshow nav span {
         padding: 0;
     }
 
-    .portfolio .slideshow ul > li {
+    .projects .slideshow ul > li {
         width: 100%;
         height: 100%;
         position: absolute;
@@ -1458,41 +1460,41 @@ body.light hr.separator {
         margin: 0;
     }
 
-    .portfolio .slideshow ul > li:after {
+    .projects .slideshow ul > li:after {
         display: none;
     }
 
-    .portfolio .slideshow figure {
+    .projects .slideshow figure {
         padding: 125px 30px 30px;
         border-radius: 0;
         max-width: 720px;
         margin: 0 auto;
     }
 
-    .portfolio .slideshow nav span.nav-prev, .portfolio .slideshow nav span.nav-next {
+    .projects .slideshow nav span.nav-prev, .projects .slideshow nav span.nav-next {
         top: 35px;
         width: 32px;
         height: 32px;
     }
 
-    .portfolio .slideshow nav span.nav-next {
+    .projects .slideshow nav span.nav-next {
         right: 30px;
     }
 
-    .portfolio .slideshow nav span.nav-prev {
+    .projects .slideshow nav span.nav-prev {
         left: 30px;
     }
 
-    .portfolio .slideshow nav span.nav-prev img, .portfolio .slideshow nav span.nav-next img {
+    .projects .slideshow nav span.nav-prev img, .projects .slideshow nav span.nav-next img {
         width: 32px;
         height: 32px;
     }
 
-    .portfolio .slideshow nav span:before {
+    .projects .slideshow nav span:before {
         display: none;
     }
 
-    .portfolio .slideshow nav span.nav-close {
+    .projects .slideshow nav span.nav-close {
         top: 35px;
         right: 0;
         left: 0;
@@ -1503,12 +1505,12 @@ body.light hr.separator {
         line-height: 0;
     }
 
-    .portfolio .slideshow nav span.nav-close img {
+    .projects .slideshow nav span.nav-close img {
         width: 32px;
         height: 32px;
     }
 
-    .portfolio .slideshow nav {
+    .projects .slideshow nav {
         position: fixed;
         top: 0;
         width: 100%;
@@ -1650,58 +1652,58 @@ body.light hr.separator {
         display: none;
     }
 
-    .portfolio .main-content {
+    .projects .main-content {
         padding-bottom: 10px;
         margin-top: -12px;
     }
 
-    .portfolio .grid li {
+    .projects .grid li {
         width: 100%;
     }
 
-    .portfolio .main-content > .container {
+    .projects .main-content > .container {
         padding: 0 10px;
     }
 
-    .portfolio .slideshow figure {
+    .projects .slideshow figure {
         padding: 85px 25px 25px;
     }
 
-    .portfolio .slideshow figcaption h3 {
+    .projects .slideshow figcaption h3 {
         font-size: 25px;
     }
 
-    .portfolio .slideshow nav span.nav-prev, .portfolio .slideshow nav span.nav-next {
+    .projects .slideshow nav span.nav-prev, .projects .slideshow nav span.nav-next {
         top: 9px;
         width: 20px;
         height: 20px;
     }
 
-    .portfolio .slideshow nav span.nav-next {
+    .projects .slideshow nav span.nav-next {
         right: 20px;
     }
 
-    .portfolio .slideshow nav span.nav-prev {
+    .projects .slideshow nav span.nav-prev {
         left: 20px;
     }
 
-    .portfolio .slideshow nav span.nav-prev img, .portfolio .slideshow nav span.nav-next img {
+    .projects .slideshow nav span.nav-prev img, .projects .slideshow nav span.nav-next img {
         width: 20px;
         height: 20px;
     }
 
-    .portfolio .slideshow nav span.nav-close {
+    .projects .slideshow nav span.nav-close {
         top: 21px;
         width: 20px;
         height: 20px;
     }
 
-    .portfolio .slideshow nav span.nav-close img {
+    .projects .slideshow nav span.nav-close img {
         width: 20px;
         height: 20px;
     }
 
-    .portfolio .slideshow nav {
+    .projects .slideshow nav {
         height: 62px;
     }
 

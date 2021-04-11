@@ -1,11 +1,11 @@
 /* =================================================================== */
 /* BLUE #4169e1
 ====================================================================== */
-.home h1, .about .box-stats h3, .title-section h1 span, #menu li.active a, body.light #menu li.active a, .blog .post-container:hover .post-content .entry-header h3 a, .blog .post-content .entry-header h3 a:hover, .contact .custom-span-contact i, .portfolio .slideshow figcaption h3, .portfolio .slideshow a, .portfolio .grid figure:hover figcaption, .blog-post .meta i {
+.home h1, .about .box-stats h3, .title-section h1 span, #menu li.active a, body.light #menu li.active a, .blog .post-container:hover .post-content .entry-header h3 a, .blog .post-content .entry-header h3 a:hover, .contact .custom-span-contact i, .projects .slideshow figcaption h3, .projects .slideshow a, .projects .grid figure:hover figcaption, .blog-post .meta i {
     color: #4169e1;
 }
 
-.home .home-details h1:before, .about .resume-box .icon, .contact ul.social li a:hover, body.light.contact ul.social li a:hover, .preloader .loader, .blog .page-link:hover, .blog .page-item.active .page-link, body.light.blog .page-link:hover, body.light.blog .page-item.active .page-link, .portfolio .grid li figure div, .header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover, body.light .header ul.icon-menu li.icon-box.active, body.light .header ul.icon-menu li.icon-box:hover, .btn, .header .icon-box h2, .home .color-block, .title-section hr, .portfolio .slideshow .carousel-indicators li.active, .button:before, .button-icon {
+.home .home-details h1:before, .about .resume-box .icon, .contact ul.social li a:hover, body.light.contact ul.social li a:hover, .preloader .loader, .blog .page-link:hover, .blog .page-item.active .page-link, body.light.blog .page-link:hover, body.light.blog .page-item.active .page-link, .projects .grid li figure div, .header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover, body.light .header ul.icon-menu li.icon-box.active, body.light .header ul.icon-menu li.icon-box:hover, .btn, .header .icon-box h2, .home .color-block, .title-section hr, .projects .slideshow .carousel-indicators li.active, .button:before, .button-icon {
     background-color: #4169e1;
 }
 
