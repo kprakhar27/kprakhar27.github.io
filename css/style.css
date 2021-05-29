@@ -170,7 +170,7 @@ blockquote{
   padding: 0;
   width: 80%;
   padding-left: 6.8rem;
-  border-left: 0.3rem solid #c32865;
+  border-left: 0.3rem solid #4d4dff;
   margin-top: 5rem;
   color:#fff;
 }
@@ -184,14 +184,14 @@ cite{
 }
 
 a {
-  color:#c32865;
+  color:#4d4dff;
   -webkit-transition: color .3s ease-out;
        -o-transition: color .3s ease-out;
           transition: color .3s ease-out;
 }
 
 a:hover {
-  color:#c32865;
+  color:#4d4dff;
   outline: none;
 }
 
@@ -247,7 +247,7 @@ input[type='email']:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 textarea:focus{
-  border-color: #c32865;
+  border-color: #4d4dff;
   outline: 0;
   color: #fff;
 }
@@ -302,7 +302,7 @@ label.error{
   border:0;
   border-radius: 0;
   padding: 1.1em 2.28em 1em;
-  background-color: #c32865;
+  background-color: #4d4dff;
   text-decoration: none;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
@@ -310,7 +310,7 @@ label.error{
 
 .btn:hover,
 .btn:focus{
-  background-color:#f5468b;
+  background-color:#1866e1;
   color: #fff;
   -webkit-box-shadow:none;
   box-shadow: none;
@@ -344,8 +344,8 @@ label.error{
 }
 
 .ion-ios-play:hover{
-  color: #c32865;
-  border: 1px solid #c32865;
+  color: #4d4dff;
+  border: 1px solid #4d4dff;
 }
 .ion-ios-play:after {
   content: '';
@@ -403,7 +403,7 @@ label.error{
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #c32865;
+  background-color: #4d4dff;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -460,7 +460,7 @@ label.error{
 
 
 .text-primary{
-  color:#c32865!important;
+  color:#4d4dff!important;
 }
 
 .masked{
@@ -611,7 +611,7 @@ a.brand:focus{
 }
 
 .navbar-toggle:hover .icon-bar{
-  background-color:  #c32865;
+  background-color:  #4d4dff;
 }
 
 .navbar .social-list{
@@ -646,7 +646,7 @@ a.brand:focus{
 }
 
 .social-list a:hover{
-  color:#c32865;
+  color:#4d4dff;
   text-decoration: none;
 }
 
@@ -747,7 +747,7 @@ a.brand:focus{
 }
 
 .close-menu:hover{
-  color: #c32865;
+  color: #4d4dff;
 }
 
 .menu-list{
@@ -842,7 +842,7 @@ a.brand:focus{
 }
 
 .menu-footer .social-list a:hover{
-  color:#c32865;
+  color:#4d4dff;
 }
 
 .menu-footer .copy{
@@ -988,7 +988,7 @@ a.brand:focus{
 #pp-nav .pp-nav-down:hover,
 #pp-nav.white .pp-nav-up:hover,
 #pp-nav.white .pp-nav-down:hover{
-  color: #c32865;
+  color: #4d4dff;
 }
 
 #pp-nav.white .pp-nav-up,
@@ -1007,7 +1007,7 @@ a.brand:focus{
 
 #pp-nav li .active span, .pp-slidesNav .active span{
   opacity: 1;
-  background: #c32865;
+  background: #4d4dff;
   transform:scale(1.6);
 }
 
@@ -1230,7 +1230,7 @@ a.brand:focus{
 
 .icon-specialization{
   font-size:5rem;
-  color:#c32865;
+  color:#4d4dff;
 }
 
 .row-specialization{
@@ -1287,7 +1287,7 @@ a.brand:focus{
 }
 
 .col-resume:hover{
-  background: #c32865;
+  background: #4d4dff;
 }
 
 .resume-type{
@@ -1596,7 +1596,7 @@ a.brand:focus{
 
 
 .view-all a:hover{
-  color:#c32865;
+  color:#4d4dff;
   text-decoration: none;
 }
 
@@ -1844,7 +1844,7 @@ a.brand:focus{
 }
 
 .owl-dot.active span{
-  background: #c32865;
+  background: #4d4dff;
   transform:scale(1.4);
 }
 
@@ -2158,7 +2158,7 @@ a.brand:focus{
 }
 
 .project-box1:hover{
-  background: #c32865;
+  background: #4d4dff;
   text-decoration: none;
   border-color: transparent;
 }
